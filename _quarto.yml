@@ -1,8 +1,11 @@
 project:
   type: website
+  resources: 
+    - cv.pdf
 
 website:
   # title: "stats140xp-website"
+  
   navbar:
     left:
       - href: index.qmd
