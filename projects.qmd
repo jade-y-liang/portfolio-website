@@ -1,0 +1,36 @@
+---
+toc: false
+listing: 
+  - id: project-listing
+    contents: 
+      - "/projects/*.qmd*"
+    sort: false
+    sort-ui: false
+    type: grid
+    fields: 
+      - title
+      - image
+      - subtitle
+    categories: false
+    
+---
+
+<!-- To list projects manually -->
+## Project 1
+
+Here is my project, [No-Plan Pantry](https://github.com/jade-y-liang/no-plan-pantry).
+
+## Project 2
+
+Text above
+
+<!-- To list projects automatically -->
+:::project-listing
+:::
+
+Text below
+
+
+
+
+

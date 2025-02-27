@@ -9,8 +9,64 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "stats140xp-website",
+    "title": "Jade Liang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities in data science or analytics, where I can contribute my skills and continue to grow professionally."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Jade Liang",
+    "section": "…?",
+    "text": "…?"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Jade Liang",
+    "section": "",
+    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities in data science or analytics, where I can contribute my skills and continue to grow professionally."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jade Liang",
+    "section": "Education",
+    "text": "Education\n[insert education here]"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jade Liang",
+    "section": "Experience",
+    "text": "Experience\n[insert experience here]"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Here is my project, No-Plan Pantry."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "",
+    "section": "",
+    "text": "Here is my project, No-Plan Pantry."
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "",
+    "section": "Project 2",
+    "text": "Project 2\nText above\n\n\n\n\nText below"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Hello world!"
   }
 ]
