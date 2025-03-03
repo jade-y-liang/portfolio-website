@@ -1,35 +1,49 @@
 ---
-toc: false
+title: Projects
+toc: true
+page-layout: full
+title-block-banner: true
 listing: 
-  - id: project-listing
-    contents: 
-      - "/projects/*.qmd*"
-    sort: false
-    sort-ui: false
-    type: grid
-    fields: 
-      - title
-      - image
-      - subtitle
+  - id: projects
     categories: false
+    type: grid
+    fields: [image, title, description, categories]
+    max-description-length: 300
+    filter-ui: true
+    contents: 
+      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/no-plan-pantry/"
+        title: No-Plan Pantry
+        description: "A web application that recommends recipes from Allrecipes.com based on user-inputted ingredients, helping reduce food waste. It also generates AI-created recipes to inspire users to cook with leftovers."
+        categories: [Scrapy, SQL, BERT, GPT-2, Dash]
+        image: images/recipes.jpg
+        
+      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/hw5-image-classification/"
+        title: Image Classification of Cats and Dogs
+        description: "Developed deep learning models using TensorFlow and Keras to distinguish between cat and dog images, achieving 96.73% test accuracy through convolutional neural networks, data augmentation, and transfer learning."
+        categories: [Keras, TensorFlow, MatPlotLib, Numpy]
+        image: images/cat-and-dog.jpg
+        
+      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/hw5-image-classification/"
+        title: Fake News Classification
+        description: "This project develops a machine learning model using TensorFlow and Keras to identify fake news articles based on their titles and texts. The model evaluates the effectiveness of different neural network architectures by processing and vectorizing text data to predict news legitimacy."
+        categories: [Keras, TensorFlow, MatPlotLib, Numpy]
+        image: images/news.jpg
     
+      - path: "https://github.com/jade-y-liang/academic-performance-analysis"
+        title: Academic Performance Analysis
+        description: "Analyzed a Kaggle dataset of 10,000 students to predict academic performance for a UCLA Stats 101A project, identifying key factors influencing success to aid educators."
+        categories: [R, Linear Regression]
+        image: images/academics.jpg
 ---
+## About This Page
 
-<!-- To list projects manually -->
-## Project 1
-
-Here is my project, [No-Plan Pantry](https://github.com/jade-y-liang/no-plan-pantry).
-
-## Project 2
-
-Text above
+Here is a list of projects that I've completed. This list consists of both personal and academic projects using *Python*, *R*, and *SQL*.
 
 <!-- To list projects automatically -->
 :::project-listing
 :::
 
-Text below
-
+## Projects
 
 
 

@@ -44,9 +44,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "",
+    "title": "Projects",
     "section": "",
-    "text": "Here is my project, No-Plan Pantry."
+    "text": "Here is a list of projects that I’ve completed. This list consists of both personal and academic projects using Python, R, and SQL."
   },
   {
     "objectID": "projects.html#project-1",
@@ -68,5 +68,40 @@
     "title": "Project 1",
     "section": "",
     "text": "Hello world!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jade Liang",
+    "section": "",
+    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities in data science or analytics, where I can contribute my skills and continue to grow professionally."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Data Analyst Intern, Kurma AI\nFeb 2025 - Present\n\nAssists in the preparation and cleaning of PDF documents to train Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) models.\nResearches and explores innovative text extraction methods to enhance data formatting and quality for machine learning applications.\n\n\n\nCashier, Wing Cheung Co.\nJun 2015 - Aug 2018\n\nServed customers by receiving cash, credit or debit card payment during 8-hour shifts.\nMaintained organization of 15 fruit and vegetable sections constantly throughout 8 hours.\nMemorized prices of 35 fruits and vegetables on the spot to charge customers accordingly."
+  },
+  {
+    "objectID": "projects.html#about",
+    "href": "projects.html#about",
+    "title": "",
+    "section": "",
+    "text": "Here is a list of projects that I’ve completed. This list consists of both personal and academic projects using Python, R, and SQL."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "projects.html#about-this-page",
+    "href": "projects.html#about-this-page",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is a list of projects that I’ve completed. This list consists of both personal and academic projects using Python, R, and SQL."
   }
 ]

@@ -15,12 +15,14 @@ about:
       text: Email
       url: "mailto:jade.y.liang@gmail.com"
     - icon: file-person
-      text: CV
-      url: "cv.pdf"
+      text: Resume
+      url: "Resume.pdf"
 toc: false
 ---
 
-## Welcome!
+# Welcome!
+
+## About Me
 
 I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in **Mathematics** and **Statistics & Data Science**, with a **Specialization in Computing**. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.
 

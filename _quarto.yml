@@ -1,7 +1,7 @@
 project:
   type: website
   resources: 
-    - cv.pdf
+    - Resume.pdf
 
 website:
   # title: "stats140xp-website"
@@ -10,11 +10,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: experience.qmd
+        text: Work Experience
       - href: projects.qmd
         text: Projects
-      - href: courses.qmd
-        text: Courses
-        
+
   page-footer: 
     right: "&copy; 2025, Jade Liang"
 
