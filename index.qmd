@@ -1,9 +1,11 @@
 ---
-title: "Jade Liang"
+title: Jade Liang
 favicon: images/circle-small.png
 about:
   template: trestles
   image: images/jade.jpg
+  image-width: 90%
+  image-shape: rounded
   links: 
     - icon: github
       text: Github

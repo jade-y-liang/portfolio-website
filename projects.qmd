@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Blog & Projects
 toc: true
 page-layout: full
 title-block-banner: true
@@ -23,7 +23,7 @@ listing:
         categories: [Keras, TensorFlow, MatPlotLib, Numpy]
         image: images/cat-and-dog.jpg
         
-      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/hw5-image-classification/"
+      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/hw6-real-vs-fake-news/"
         title: Fake News Classification
         description: "This project develops a machine learning model using TensorFlow and Keras to identify fake news articles based on their titles and texts. The model evaluates the effectiveness of different neural network architectures by processing and vectorizing text data to predict news legitimacy."
         categories: [Keras, TensorFlow, MatPlotLib, Numpy]
@@ -35,9 +35,11 @@ listing:
         categories: [R, Linear Regression]
         image: images/academics.jpg
 ---
-## About This Page
+## My Blog & About this Page
 
-Here is a list of projects that I've completed. This list consists of both personal and academic projects using *Python*, *R*, and *SQL*.
+Here is a [blog](https://jade-y-liang.github.io/pic16b-blog/) that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog. 
+
+Below is a collection of both academic and personal projects I’ve completed using *Python*, *R*, and *SQL*.
 
 <!-- To list projects automatically -->
 :::project-listing

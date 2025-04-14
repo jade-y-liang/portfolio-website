@@ -1,18 +1,20 @@
 ---
-title: "Work Experience"
+title: Work Experience
 favicon: images/circle-small.png
+title-block-banner: true
 ---
 
 
 ### Data Analyst Intern, *Kurma AI*
 *Feb 2025 - Present*
 
-* Assists in the preparation and cleaning of PDF documents to train Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) models.
-* Researches and explores innovative text extraction methods to enhance data formatting and quality for machine learning applications.
+* Build automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models. 
+* Clean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images). 
+* Research and evaluate data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.
 
 ### Cashier, *Wing Cheung Co.*
 *Jun 2015 - Aug 2018*
 
-* Served customers by receiving cash, credit or debit card payment during 8-hour shifts.
-* Maintained organization of 15 fruit and vegetable sections constantly throughout 8 hours.
-* Memorized prices of 35 fruits and vegetables on the spot to charge customers accordingly.
+* Provided friendly, accurate service to hundreds of customers during daily transactions.
+* Maintained organized, customer-friendly produce displays throughout each shift.
+* Memorized and recalled prices for 35+ items to ensure fast, accurate checkout.

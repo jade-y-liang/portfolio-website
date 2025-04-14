@@ -5,26 +5,30 @@ project:
 
 website:
   # title: "stats140xp-website"
+  favicon: /images/circle-small.png
   
   navbar:
-    left:
+    pinned: true
+    background: light
+    foreground: dark
+    right:
       - href: index.qmd
         text: Home
       - href: experience.qmd
         text: Work Experience
       - href: projects.qmd
-        text: Projects
-
+        text: Blog & Projects
+        
   page-footer: 
-    right: "&copy; 2025, Jade Liang"
+    center: "&copy; 2025 Jade Liang"
 
 format:
   html:
-    theme:
-      - flatly
-      - brand
+    theme: 
+      light: flatly
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 
 

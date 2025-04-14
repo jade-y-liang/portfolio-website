@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projects</title>
+<title>Blog &amp; Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,12 +24,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href=".//images/circle-small.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d1b12f2568ecbe55642fee6aa00bd082.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-22fe3262e99513a066ac2f189fb6b1c1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -142,7 +142,7 @@ window.Quarto = {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
@@ -153,7 +153,7 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
-<span class="menu-text">Projects</span></a>
+<span class="menu-text">Blog &amp; Projects</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -166,7 +166,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Projects</h1>
+      <h1 class="title">Blog &amp; Projects</h1>
                       </div>
   </div>
     
@@ -187,7 +187,7 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#about-this-page" id="toc-about-this-page" class="nav-link active" data-scroll-target="#about-this-page">About This Page</a></li>
+  <li><a href="#my-blog-about-this-page" id="toc-my-blog-about-this-page" class="nav-link active" data-scroll-target="#my-blog-about-this-page">My Blog &amp; About this Page</a></li>
   <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a></li>
   </ul>
 </nav>
@@ -199,9 +199,10 @@ window.Quarto = {
 
 
 
-<section id="about-this-page" class="level2">
-<h2 class="anchored" data-anchor-id="about-this-page">About This Page</h2>
-<p>Here is a list of projects that I’ve completed. This list consists of both personal and academic projects using <em>Python</em>, <em>R</em>, and <em>SQL</em>.</p>
+<section id="my-blog-about-this-page" class="level2">
+<h2 class="anchored" data-anchor-id="my-blog-about-this-page">My Blog &amp; About this Page</h2>
+<p>Here is a <a href="https://jade-y-liang.github.io/pic16b-blog/">blog</a> that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog.</p>
+<p>Below is a collection of both academic and personal projects I’ve completed using <em>Python</em>, <em>R</em>, and <em>SQL</em>.</p>
 <!-- To list projects automatically -->
 <div class="project-listing">
 
@@ -288,7 +289,7 @@ Developed deep learning models using TensorFlow and Keras to distinguish between
 </a>
 </div>
 <div class="g-col-1" data-index="2" data-categories="S2VyYXMlMkNUZW5zb3JGbG93JTJDTWF0UGxvdExpYiUyQ051bXB5">
-<a href="https://jade-y-liang.github.io/pic16b-blog/posts/hw5-image-classification/" class="quarto-grid-link">
+<a href="https://jade-y-liang.github.io/pic16b-blog/posts/hw6-real-vs-fake-news/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="images/news.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -452,6 +453,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -772,11 +778,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
+<p>© 2025 Jade Liang</p>
+</div>
+    <div class="nav-footer-right">
       &nbsp;
     </div>
-    <div class="nav-footer-right">
-<p>© 2025, Jade Liang</p>
-</div>
   </div>
 </footer>
 
