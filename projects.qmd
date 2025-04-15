@@ -35,11 +35,13 @@ listing:
         categories: [R, Linear Regression]
         image: images/academics.jpg
 ---
-## My Blog & About this Page
+## About this Page
+Below is a collection of both academic and personal projects I’ve completed using *Python*, *R*, and *SQL*.
+
+## My Blog
 
 Here is a [blog](https://jade-y-liang.github.io/pic16b-blog/) that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog. 
 
-Below is a collection of both academic and personal projects I’ve completed using *Python*, *R*, and *SQL*.
 
 <!-- To list projects automatically -->
 :::project-listing

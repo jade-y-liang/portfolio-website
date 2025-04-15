@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Blog & Projects",
     "section": "",
-    "text": "Here is a blog that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog.\nBelow is a collection of both academic and personal projects I’ve completed using Python, R, and SQL."
+    "text": "Below is a collection of both academic and personal projects I’ve completed using Python, R, and SQL."
   },
   {
     "objectID": "projects.html#project-1",
@@ -100,16 +100,16 @@
   {
     "objectID": "projects.html#about-this-page",
     "href": "projects.html#about-this-page",
-    "title": "Projects",
+    "title": "Blog & Projects",
     "section": "",
-    "text": "Here is a blog that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog.\nBelow is a list of projects that I’ve completed. This list consists of both personal and academic projects using Python, R, and SQL."
+    "text": "Below is a collection of both academic and personal projects I’ve completed using Python, R, and SQL."
   },
   {
     "objectID": "projects.html#my-blog",
     "href": "projects.html#my-blog",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is a blog that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog.\nBelow is a list of projects that I’ve completed. This list consists of both personal and academic projects using Python, R, and SQL."
+    "title": "Blog & Projects",
+    "section": "My Blog",
+    "text": "My Blog\nHere is a blog that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog."
   },
   {
     "objectID": "projects.html#my-blog-about-this-page",
