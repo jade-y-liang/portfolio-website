@@ -4,7 +4,7 @@ project:
     - Resume.pdf
 
 website:
-  # title: "stats140xp-website"
+  title: "Jade Liang"
   favicon: /images/circle-small.png
   
   navbar:
