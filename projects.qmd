@@ -40,7 +40,7 @@ Below is a collection of both academic and personal projects I’ve completed us
 
 ## My Blog
 
-Here is a [blog](https://jade-y-liang.github.io/beyond-the-dataset/) that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog. 
+Here is a [blog](https://jade-y-liang.github.io/beyond-the-dataset/) that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/beyond-the-dataset/ into your browser to view the blog. 
 
 
 <!-- To list projects automatically -->
