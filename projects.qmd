@@ -11,19 +11,19 @@ listing:
     max-description-length: 300
     filter-ui: true
     contents: 
-      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/no-plan-pantry/"
+      - path: "https://jade-y-liang.github.io/beyond-the-dataset/posts/no-plan-pantry/"
         title: No-Plan Pantry
         description: "A web application that recommends recipes from Allrecipes.com based on user-inputted ingredients, helping reduce food waste. It also generates AI-created recipes to inspire users to cook with leftovers."
         categories: [Scrapy, SQL, BERT, GPT-2, Dash]
         image: images/recipes.jpg
         
-      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/hw5-image-classification/"
+      - path: "https://jade-y-liang.github.io/beyond-the-dataset/posts/hw5-image-classification/"
         title: Image Classification of Cats and Dogs
         description: "Developed deep learning models using TensorFlow and Keras to distinguish between cat and dog images, achieving 96.73% test accuracy through convolutional neural networks, data augmentation, and transfer learning."
         categories: [Keras, TensorFlow, MatPlotLib, Numpy]
         image: images/cat-and-dog.jpg
         
-      - path: "https://jade-y-liang.github.io/pic16b-blog/posts/hw6-real-vs-fake-news/"
+      - path: "https://jade-y-liang.github.io/beyond-the-dataset/posts/hw6-real-vs-fake-news/"
         title: Fake News Classification
         description: "This project develops a machine learning model using TensorFlow and Keras to identify fake news articles based on their titles and texts. The model evaluates the effectiveness of different neural network architectures by processing and vectorizing text data to predict news legitimacy."
         categories: [Keras, TensorFlow, MatPlotLib, Numpy]
@@ -40,7 +40,7 @@ Below is a collection of both academic and personal projects I’ve completed us
 
 ## My Blog
 
-Here is a [blog](https://jade-y-liang.github.io/pic16b-blog/) that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog. 
+Here is a [blog](https://jade-y-liang.github.io/beyond-the-dataset/) that I made while taking Programming In Computing (PIC) 16B at UCLA. This blog consists of homework assignments involving data analysis, as well as a final project! You can also paste https://jade-y-liang.github.io/pic16b-blog/ into your browser to view the blog. 
 
 
 <!-- To list projects automatically -->
