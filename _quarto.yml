@@ -16,8 +16,10 @@ website:
         text: Home
       - href: experience.qmd
         text: Work Experience
+      - href: "https://jade-y-liang.github.io/beyond-the-dataset/"
+        text: My Blog
       - href: projects.qmd
-        text: Blog & Projects
+        text: Projects
         
   page-footer: 
     center: "&copy; 2025 Jade Liang"
