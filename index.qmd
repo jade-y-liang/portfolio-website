@@ -28,7 +28,7 @@ toc: false
 
 I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in **Mathematics** and **Statistics & Data Science**, with a **Specialization in Computing**. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.
 
-With a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities in data science or analytics, where I can contribute my skills and continue to grow professionally.
+With a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities where I can contribute my skills and continue to grow professionally.
 
 
 

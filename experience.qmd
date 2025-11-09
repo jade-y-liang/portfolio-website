@@ -6,7 +6,7 @@ title-block-banner: true
 
 
 ### Data Analyst Intern, *Kurma AI*
-*Feb 2025 - Present*
+*Feb 2025 - May 2025*
 
 * Build automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models. 
 * Clean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images). 
