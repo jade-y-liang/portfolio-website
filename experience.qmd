@@ -4,12 +4,18 @@ favicon: images/circle-small.png
 title-block-banner: true
 ---
 
+### Kodely Leader, *Kodely*
+*Nov 2025 - Present*
+
+* Leading hands-on, movement-based enrichment workshops that blend STEM, creativity, and physical activity to foster 21st-century skills.
+* Delivering turnkey K–8 experiences focused on design thinking, wellness, and real-world problem-solving using Kodely’s innovative curriculum.
+* Managing student cohorts with care, while inspiring collaboration, curiosity, and confidence through meaningful, high-impact learning.
 
 ### Data Analyst Intern, *Kurma AI*
 *Feb 2025 - May 2025*
 
 * Build automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models. 
-* Clean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images). 
+* Clean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images).
 * Research and evaluate data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.
 
 ### Cashier, *Wing Cheung Co.*
