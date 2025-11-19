@@ -4,13 +4,6 @@ favicon: images/circle-small.png
 title-block-banner: true
 ---
 
-### Kodely Leader, *Kodely*
-*Nov 2025 - Present*
-
-* Leading hands-on, enriching STEM workshops that blend creativity and physical activity.
-* Delivering turnkey K–8 experiences focused on design thinking, wellness, and real-world problem-solving using Kodely’s innovative curriculum.
-* Managing student cohorts with care, while inspiring collaboration, curiosity, and confidence through meaningful, high-impact learning.
-
 ### Data Analyst Intern, *Kurma AI*
 *Feb 2025 - May 2025*
 
