@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Data Analyst Intern, Kurma AI\nFeb 2025 - May 2025\n\nBuild automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models.\nClean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images).\nResearch and evaluate data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.\n\n\n\nCashier, Wing Cheung Co.\nJun 2015 - Aug 2018\n\nProvided friendly, accurate service to hundreds of customers during daily transactions.\nMaintained organized, customer-friendly produce displays throughout each shift.\nMemorized and recalled prices for 35+ items to ensure fast, accurate checkout."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jade Liang",
+    "section": "",
+    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities where I can contribute my skills and continue to grow professionally."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jade Liang",
+    "section": "",
+    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities where I can contribute my skills and continue to grow professionally."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -19,26 +40,5 @@
     "title": "Projects",
     "section": "Projects",
     "text": "Projects"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jade Liang",
-    "section": "",
-    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities where I can contribute my skills and continue to grow professionally."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jade Liang",
-    "section": "",
-    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities where I can contribute my skills and continue to grow professionally."
-  },
-  {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Work Experience",
-    "section": "",
-    "text": "Data Analyst Intern, Kurma AI\nFeb 2025 - May 2025\n\nBuild automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models.\nClean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images).\nResearch and evaluate data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.\n\n\n\nCashier, Wing Cheung Co.\nJun 2015 - Aug 2018\n\nProvided friendly, accurate service to hundreds of customers during daily transactions.\nMaintained organized, customer-friendly produce displays throughout each shift.\nMemorized and recalled prices for 35+ items to ensure fast, accurate checkout."
   }
 ]
