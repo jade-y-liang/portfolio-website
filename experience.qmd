@@ -4,6 +4,20 @@ favicon: images/circle-small.png
 title-block-banner: true
 ---
 
+### Financial Analyst, *Marcus & Millichap*
+*Dec 2025 - Present*
+
+* Automate and optimize financial data analysis workflows, reducing processing time by over 65%.
+* Build and maintain Excel-based Discounted Cash Flow (DCF) models to underwrite multifamily and retail investment opportunities, forecast cash flows, and guide pricing and investment decisions.
+* Collect, clean, and standardize financial data from rent rolls, P&Ls, and market comparables to support underwriting and valuation of commercial real estate assets.
+* Prepare professional-grade offering memorandums (OMs) by synthesizing underwriting, financial data, and market research on sales and rent comparables into investor-ready materials.
+
+### Math Tutor, *LA Math Tutoring*
+*Jan 2026 - Present*
+
+* Translate complex mathematical concepts into structured, step-by-step frameworks to enhance student comprehension and retention.
+* Identify knowledge gaps and customize lesson strategies, improving students’ problem-solving accuracy and efficiency.
+
 ### Data Analyst Intern, *Kurma AI*
 *Feb 2025 - May 2025*
 

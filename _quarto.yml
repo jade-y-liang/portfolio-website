@@ -16,13 +16,13 @@ website:
         text: Home
       - href: experience.qmd
         text: Work Experience
-      - href: "https://jade-y-liang.github.io/beyond-the-dataset/"
-        text: My Blog
       - href: projects.qmd
         text: Projects
+      # - href: "https://jade-y-liang.github.io/beyond-the-dataset/"
+      #   text: My Blog
         
   page-footer: 
-    center: "&copy; 2025 Jade Liang"
+    center: "&copy; 2026 Jade Liang"
 
 format:
   html:
