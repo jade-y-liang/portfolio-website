@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Work Experience",
-    "section": "",
-    "text": "Data Analyst Intern, Kurma AI\nFeb 2025 - May 2025\n\nBuild automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models.\nClean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images).\nResearch and evaluate data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.\n\n\n\nCashier, Wing Cheung Co.\nJun 2015 - Aug 2018\n\nProvided friendly, accurate service to hundreds of customers during daily transactions.\nMaintained organized, customer-friendly produce displays throughout each shift.\nMemorized and recalled prices for 35+ items to ensure fast, accurate checkout."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jade Liang",
     "section": "",
-    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities where I can contribute my skills and continue to grow professionally."
+    "text": "I am a recent graduate from the University of California, Los Angeles (UCLA), where I double majoried in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking opportunities where I can contribute my skills and continue to grow professionally."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Jade Liang",
     "section": "",
-    "text": "I am a fourth year undergraduate at the University of California, Los Angeles (UCLA). I am double majoring in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking internship and job opportunities where I can contribute my skills and continue to grow professionally."
+    "text": "I am a recent graduate from the University of California, Los Angeles (UCLA), where I double majoried in Mathematics and Statistics & Data Science, with a Specialization in Computing. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.\nWith a strong foundation in mathematics, programming, and data analysis, I am actively seeking opportunities where I can contribute my skills and continue to grow professionally."
   },
   {
     "objectID": "projects.html",
@@ -40,5 +33,12 @@
     "title": "Projects",
     "section": "Projects",
     "text": "Projects"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Financial Analyst, Marcus & Millichap\nDec 2025 - Present\n\nAutomate and optimize financial data analysis workflows, reducing processing time by over 65%.\nBuild and maintain Excel-based Discounted Cash Flow (DCF) models to underwrite multifamily and retail investment opportunities, forecast cash flows, and guide pricing and investment decisions.\nCollect, clean, and standardize financial data from rent rolls, P&Ls, and market comparables to support underwriting and valuation of commercial real estate assets.\nPrepare professional-grade offering memorandums (OMs) by synthesizing underwriting, financial data, and market research on sales and rent comparables into investor-ready materials.\n\n\n\nMath Tutor, LA Math Tutoring\nJan 2026 - Present\n\nTranslate complex mathematical concepts into structured, step-by-step frameworks to enhance student comprehension and retention.\nIdentify knowledge gaps and customize lesson strategies, improving students’ problem-solving accuracy and efficiency.\n\n\n\nData Analyst Intern, Kurma AI\nFeb 2025 - May 2025\n\nBuild automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models.\nClean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images).\nResearch and evaluate data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.\n\n\n\nCashier, Wing Cheung Co.\nJun 2015 - Aug 2018\n\nProvided friendly, accurate service to hundreds of customers during daily transactions.\nMaintained organized, customer-friendly produce displays throughout each shift.\nMemorized and recalled prices for 35+ items to ensure fast, accurate checkout."
   }
 ]
