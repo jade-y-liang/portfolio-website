@@ -16,7 +16,7 @@ title-block-banner: true
 * Automate and optimize financial data analysis workflows, reducing processing time by over 65%.
 * Build and maintain Excel-based Discounted Cash Flow (DCF) models to underwrite multifamily and retail investment opportunities, forecast cash flows, and guide pricing and investment decisions.
 * Collect, clean, and standardize financial data from rent rolls, P&Ls, and market comparables to support underwriting and valuation of commercial real estate assets.
-* Prepare professional-grade offering memorandums (OMs) by synthesizing underwriting, financial data, and market research on sales and rent comparables into investor-ready materials.
+* Prepare professional-grade offering memorandums (OMs) into investor-ready materials.
 
 ### Data Analyst Intern, *Kurma AI*
 *Feb 2025 - May 2025*
