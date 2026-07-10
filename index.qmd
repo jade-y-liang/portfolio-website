@@ -16,9 +16,9 @@ about:
     - icon: inbox-fill
       text: Email
       url: "mailto:jade.y.liang@gmail.com"
-    - icon: file-person
-      text: Resume
-      url: "Resume.pdf"
+    # - icon: file-person
+    #   text: Resume
+    #   url: "Resume.pdf"
 toc: false
 ---
 
@@ -26,7 +26,7 @@ toc: false
 
 ## About Me
 
-I am a recent graduate from the University of California, Los Angeles (UCLA), where I double majored in **Mathematics** and **Statistics & Data Science**, with a **Specialization in Computing**. My fascination lies in the transformative power of data. I am particularly passionate about applying statistical methods and data-driven insights to solve real-world problems.
+I am a recent graduate from the University of California, Los Angeles (UCLA), where I double majored in **Mathematics** and **Statistics & Data Science**, with a **Specialization in Computing**. 
 
 With a strong foundation in mathematics, programming, and data analysis, I am actively seeking opportunities where I can contribute my skills and continue to grow professionally.
 
