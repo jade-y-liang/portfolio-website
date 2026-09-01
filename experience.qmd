@@ -4,26 +4,26 @@ favicon: images/circle-small.png
 title-block-banner: true
 ---
 
-### Math Tutor, *LA Math Tutoring*
+### Tutor, *LA Math Tutoring*
 *Jan 2026 - Present*
 
-* Simplified complex mathematical concepts through structured, individualized instruction.
-* Assessed knowledge gaps and tailored lessons to strengthen problem-solving skills.
+* Simplify complex mathematical concepts through structured, individualized instruction.
+* Assesse knowledge gaps and tailored lessons to strengthen problem-solving skills.
 
 ### Financial Analyst, *Marcus & Millichap*
 *Dec 2025 - Jun 2026*
 
-* Automate and optimize financial data analysis workflows, reducing processing time by over 65%.
-* Build and maintain Excel-based Discounted Cash Flow (DCF) models to underwrite multifamily and retail investment opportunities, forecast cash flows, and guide pricing and investment decisions.
-* Collect, clean, and standardize financial data from rent rolls, P&Ls, and market comparables to support underwriting and valuation of commercial real estate assets.
-* Prepare professional-grade offering memorandums (OMs) into investor-ready materials.
+* Automated and optimized financial data analysis workflows, reducing processing time by over 65%.
+* Built and maintained Excel-based Discounted Cash Flow (DCF) models to underwrite multifamily and retail investment opportunities, forecast cash flows, and guide pricing and investment decisions.
+* Collected, cleaned, and standardized financial data from rent rolls, P&Ls, and market comparables to support underwriting and valuation of commercial real estate assets.
+* Prepared professional-grade offering memorandums (OMs) into investor-ready materials.
 
 ### Data Analyst Intern, *Kurma AI*
 *Feb 2025 - May 2025*
 
-* Build automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models. 
-* Clean extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images).
-* Research and evaluate data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.
+* Built automated pipelines to extract raw text data and embedded images (e.g. tables, plots, figures) from research paper PDFs to train RAG and LLM models. 
+* Cleaned extract text by removing special characters, citation patterns, and formatting inconsistencies, and implement code to exclude irrelevant images (e.g., logos, blank images).
+* Researched and evaluated data extraction and cleaning methods to identify the most effective techniques for producing model-ready data.
 
 ### Cashier, *Wing Cheung Co.*
 *Jun 2015 - Aug 2018*
