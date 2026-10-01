@@ -10,10 +10,11 @@ title-block-banner: true
 * Simplify complex mathematical concepts through structured, individualized instruction.
 * Assesse knowledge gaps and tailored lessons to strengthen problem-solving skills.
 
-### Financial Analyst, *Marcus & Millichap*
+### Financial Analyst Intern, *Marcus & Millichap*
 *Dec 2025 - Jun 2026*
 
-* Automated and optimized financial data analysis workflows, reducing processing time by over 65%.
+* Automated financial data analysis workflows using advanced Excel functions (XLOOKUP, pivot tables)
+and custom VBA macros, reducing processing time by over 65%.
 * Built and maintained Excel-based Discounted Cash Flow (DCF) models to underwrite multifamily and retail investment opportunities, forecast cash flows, and guide pricing and investment decisions.
 * Collected, cleaned, and standardized financial data from rent rolls, P&Ls, and market comparables to support underwriting and valuation of commercial real estate assets.
 * Prepared professional-grade offering memorandums (OMs) into investor-ready materials.
